@@ -1,0 +1,16 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "Next.js in 100 Seconds",
+      "url": "https://www.youtube.com/watch?v=Sno9rV8GcV8",
+      "description": "Next.js is a React framework for building server-side rendered and statically generated web applications."
+    },
+    {
+      "id": 2,
+      "title": "Tailwind CSS in 100 Seconds",
+      "url": "https://www.youtube.com/watch?v=mr15Xzb1Ook",
+      "description": "Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces."
+    }
+  ]
+}
